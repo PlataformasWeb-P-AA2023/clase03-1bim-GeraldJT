@@ -1,5 +1,4 @@
 
-
 archivo =  open ('/home/salab/Escritorio/ejercicios/clase03-1bim-GeraldJT/ejercicio/data/Listado-Instituciones-Educativas-distribuidas-por-zona-distrito-y-circuito.csv')
 lineas = archivo.readlines()
   

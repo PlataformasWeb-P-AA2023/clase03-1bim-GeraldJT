@@ -10,7 +10,7 @@ $(document).ready(function() {
   });
 
   $("h1").on( "mouseover", function() {
-      $('#nombreUniversidad').css( "color", "blue" );
+      $('#nombreUniversidad').css( "color", "red" );
   });
 
   $("#nombreCarrera").on( "mouseover", function() {
@@ -18,8 +18,8 @@ $(document).ready(function() {
   });
 
   $("#nombreUniversidad").on( "mouseover", function() {
-      $('#nombreUniversidad').css( "color", "black" );
-      $('body').css( "background", "black" );
+      $('#nombreUniversidad').css( "color", "blue" );
+      $('body').css( "background", "white" );
   });
 
 
